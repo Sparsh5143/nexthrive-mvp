@@ -1,0 +1,67 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; padding: 0;
+    background: #f8f8f8;
+    color: #333;
+    text-align: center;
+}
+.logo {
+    width: 180px;
+    margin-top: 20px;
+}
+.tagline {
+    font-size: 1.2em;
+    color: #555;
+}
+.hero {
+    background: #e3e3ff;
+    padding: 40px 20px;
+}
+.cta-button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
+.features {
+    padding: 30px 20px;
+    background: #fff;
+}
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+.features li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+.mockup {
+    padding: 20px;
+}
+.mockup-img {
+    max-width: 90%;
+    height: auto;
+}
+.form {
+    padding: 40px 20px;
+    background: #eef;
+}
+form input, form select {
+    padding: 10px;
+    width: 80%;
+    margin: 10px 0;
+}
+form button {
+    padding: 10px 20px;
+    background: #000;
+    color: #fff;
+    border: none;
+}
+footer {
+    padding: 20px;
+    background: #222;
+    color: #fff;
+}
